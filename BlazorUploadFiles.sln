@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorUploadFiles.Api", "BlazorUploadFiles.Api\BlazorUploadFiles.Api.csproj", "{128E8EC5-7BEE-4CC2-9F74-9BDE23B5EB37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorUploadFiles.Client", "BlazorUploadFiles.Client\BlazorUploadFiles.Client.csproj", "{AA6E110D-E990-469F-ADC8-1759D2F0B5D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{128E8EC5-7BEE-4CC2-9F74-9BDE23B5EB37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128E8EC5-7BEE-4CC2-9F74-9BDE23B5EB37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128E8EC5-7BEE-4CC2-9F74-9BDE23B5EB37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128E8EC5-7BEE-4CC2-9F74-9BDE23B5EB37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA6E110D-E990-469F-ADC8-1759D2F0B5D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA6E110D-E990-469F-ADC8-1759D2F0B5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA6E110D-E990-469F-ADC8-1759D2F0B5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA6E110D-E990-469F-ADC8-1759D2F0B5D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF7DAB4C-FE1B-46A8-8402-3549C9022B46}
+	EndGlobalSection
+EndGlobal
